@@ -1,0 +1,2 @@
+(self.webpackChunk_monodeploy_gatsby=self.webpackChunk_monodeploy_gatsby||[]).push([[141],{6833:function(e,t,n){"use strict";n.r(t);var a=n(3289),l=n(8511),r=n(1910);t.default=function(e){var t=e.data.markdownRemark,n=t.html;return a.createElement(l.Z,null,a.createElement(r.Z,{title:t.frontmatter.title}),a.createElement("div",{className:"md-content",dangerouslySetInnerHTML:{__html:n}}))}}}]);
+//# sourceMappingURL=component---src-pages-markdown-remark-frontmatter-slug-tsx-97b2b36f15db5193ec90.js.map
